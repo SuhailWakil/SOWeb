@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\wakils\Documents\DPW\SOWebService</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>11/30/2016 11:34:12</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>11/30/2016 11:34:12</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>03/08/2017 19:26:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>12/07/2015 19:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>06/06/2016 15:40:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>06/06/2016 15:40:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>06/06/2016 10:45:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>06/06/2016 15:40:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>06/06/2016 15:40:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>06/06/2016 10:42:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 03:06:24</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/18/2017 13:57:10</publishTime>
+    </File>
+    <File Include="bin/RestSharp.dll">
+      <publishTime>08/26/2015 16:33:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 21:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/WebApplication2.dll">
+      <publishTime>09/10/2017 21:03:14</publishTime>
+    </File>
+    <File Include="detailPage.aspx">
+      <publishTime>06/23/2017 10:58:08</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>08/21/2017 19:55:05</publishTime>
+    </File>
+    <File Include="issue.aspx">
+      <publishTime>12/19/2016 22:52:51</publishTime>
+    </File>
+    <File Include="package.json">
+      <publishTime>08/11/2017 16:24:16</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/14/2017 14:09:06</publishTime>
+    </File>
+    <File Include="public/accela/css/1-col-portfolio.css">
+      <publishTime>01/03/2017 17:15:14</publishTime>
+    </File>
+    <File Include="public/accela/css/bootstrap.min.css">
+      <publishTime>08/25/2017 18:05:53</publishTime>
+    </File>
+    <File Include="public/accela/css/cv.css">
+      <publishTime>07/11/2016 03:29:29</publishTime>
+    </File>
+    <File Include="public/accela/css/font-awesome.min.css">
+      <publishTime>07/11/2016 03:14:23</publishTime>
+    </File>
+    <File Include="public/accela/css/googleapis.css">
+      <publishTime>12/22/2016 12:42:11</publishTime>
+    </File>
+    <File Include="public/accela/css/googlemapaddress.css">
+      <publishTime>12/21/2016 11:33:04</publishTime>
+    </File>
+    <File Include="public/accela/css/reset.css">
+      <publishTime>07/11/2016 03:28:44</publishTime>
+    </File>
+    <File Include="public/accela/css/SO/style.css">
+      <publishTime>08/01/2017 16:09:51</publishTime>
+    </File>
+    <File Include="public/accela/css/style.css">
+      <publishTime>08/01/2017 16:09:51</publishTime>
+    </File>
+    <File Include="public/accela/css/SVD/style.css">
+      <publishTime>08/28/2017 22:16:28</publishTime>
+    </File>
+    <File Include="public/accela/fonts/fontawesome-webfont78ce.eot">
+      <publishTime>05/28/2016 09:40:34</publishTime>
+    </File>
+    <File Include="public/accela/fonts/fontawesome-webfont78ce.svg">
+      <publishTime>05/28/2016 09:40:34</publishTime>
+    </File>
+    <File Include="public/accela/fonts/fontawesome-webfont78ce.ttf">
+      <publishTime>05/28/2016 09:40:34</publishTime>
+    </File>
+    <File Include="public/accela/fonts/fontawesome-webfont78ce.woff">
+      <publishTime>05/28/2016 09:40:34</publishTime>
+    </File>
+    <File Include="public/accela/fonts/fontawesome-webfontd41d.eot">
+      <publishTime>05/28/2016 09:40:34</publishTime>
+    </File>
+    <File Include="public/accela/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>07/25/2016 14:05:50</publishTime>
+    </File>
+    <File Include="public/accela/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>07/25/2016 14:05:50</publishTime>
+    </File>
+    <File Include="public/accela/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>07/25/2016 14:05:50</publishTime>
+    </File>
+    <File Include="public/accela/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>07/25/2016 14:05:50</publishTime>
+    </File>
+    <File Include="public/accela/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>07/25/2016 14:05:50</publishTime>
+    </File>
+    <File Include="public/accela/js/bootstrap.min.js">
+      <publishTime>07/25/2016 14:05:50</publishTime>
+    </File>
+    <File Include="public/accela/js/detailPage.js">
+      <publishTime>08/23/2017 02:13:47</publishTime>
+    </File>
+    <File Include="public/accela/js/googlemap.js">
+      <publishTime>08/21/2017 19:21:54</publishTime>
+    </File>
+    <File Include="public/accela/js/jquery-1.js">
+      <publishTime>07/11/2016 03:32:54</publishTime>
+    </File>
+    <File Include="public/accela/js/jquery.js">
+      <publishTime>07/11/2016 01:34:23</publishTime>
+    </File>
+    <File Include="public/accela/js/labels.js">
+      <publishTime>07/11/2016 01:34:23</publishTime>
+    </File>
+    <File Include="public/accela/js/moment.js">
+      <publishTime>07/11/2016 01:34:23</publishTime>
+    </File>
+    <File Include="public/accela/js/print.js">
+      <publishTime>07/11/2016 08:00:07</publishTime>
+    </File>
+    <File Include="public/accela/js/SO/googlemap.js">
+      <publishTime>08/21/2017 19:21:54</publishTime>
+    </File>
+    <File Include="public/accela/js/SO/requestPage.js">
+      <publishTime>09/10/2017 20:47:09</publishTime>
+    </File>
+    <File Include="public/accela/js/SVD/fileuploader.js">
+      <publishTime>08/25/2017 13:55:05</publishTime>
+    </File>
+    <File Include="public/accela/js/SVD/SVD.js">
+      <publishTime>09/10/2017 20:39:58</publishTime>
+    </File>
+    <File Include="public/accela/js/thankyou.js">
+      <publishTime>01/05/2017 09:32:54</publishTime>
+    </File>
+    <File Include="public/accela/js/vue-google-maps.js">
+      <publishTime>12/07/2016 18:48:21</publishTime>
+    </File>
+    <File Include="public/accela/js/vue-i18n.min.js">
+      <publishTime>07/11/2016 01:34:23</publishTime>
+    </File>
+    <File Include="public/accela/js/vue-validator.min.js">
+      <publishTime>12/19/2016 16:23:10</publishTime>
+    </File>
+    <File Include="public/accela/js/vue.js">
+      <publishTime>12/19/2016 16:23:10</publishTime>
+    </File>
+    <File Include="public/accela/js/vue.min.js">
+      <publishTime>07/11/2016 01:34:23</publishTime>
+    </File>
+    <File Include="requestPage.aspx">
+      <publishTime>09/08/2017 16:00:28</publishTime>
+    </File>
+    <File Include="SOWebService.asmx">
+      <publishTime>11/30/2016 11:59:54</publishTime>
+    </File>
+    <File Include="SVD.aspx">
+      <publishTime>09/10/2017 21:01:44</publishTime>
+    </File>
+    <File Include="thankyou.aspx">
+      <publishTime>01/05/2017 09:21:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/10/2017 21:03:16</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
